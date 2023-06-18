@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>tharun</title>
+</head>
+<style>
+body{
+background-image:url('Ns 200 bike vector editing.jpeg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100% 100%;
+</style>
+<body>
+<form>
+<table>
+<tr><td>username:-</td><td><input type="text" placeholder="enter your name" required></td></tr><br>
+<tr><td>email:-</td><td><input type="email" placeholder="enter your email" required></td></tr><br>
+<tr><td>password:-</td><td><input type="password" reqiured></td></tr><br>
+<tr><td><input type="button" value="submit"></td></tr>
+</table>
+</form>
+</body>
+</html>

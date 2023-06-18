@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<title>dom</title>
+</head>
+<body>
+<form>
+<label>write here--></label>
+<input type="text" id="arun"><br>
+<button>ok</button>
+</form>
+</body>
+<script>
+function tharun(){
+var data=document.getElementById("arun").value
+}
+</script>
+</html>

@@ -1,0 +1,19 @@
+
+<!doctype html>
+<html>
+<head>
+<title>tharun</title>
+</head>
+<script>  
+function getcube(){  
+var number=document.getElementById("number").value;  
+number=(number*number*number);  
+}  
+</script>  
+<form>  
+Enter No:<input type="text" id="number" name="number"/><br/>  
+<input type="button" value="cube" onclick="getcube()"/>  
+</form>  
+</script>
+<body></body>
+</html>

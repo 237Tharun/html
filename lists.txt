@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<title>lists</title>
+</head>
+<body>
+<h2>ordered lists</h2>
+<ol>
+<li>tharun</li>
+<li>narayana</li>
+<li>gouse</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+</ol>
+<h2>unordered lists</h2>
+<ul>
+<li>tharun</li>
+<li>narayana</li>
+<li>gouse</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+<li>tharun</li>
+</ul>
+</body>
+</html>

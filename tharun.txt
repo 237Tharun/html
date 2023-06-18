@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<title>CBIT</title>
+</head>
+<body>
+i am here to learn the fullstack development
+</body>
+</html>

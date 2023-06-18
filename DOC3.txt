@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>tharun</title>
+</head>
+<body>
+<label>name</label>
+<input type="text" id="tharun">
+<button onclick="username()">save</button>
+<h1 id="getdata"></h1>
+</body>
+<script>
+var name;
+function username(){
+name=document.getElementById("tharun").value
+document.getElementById("getdata").innerHTML=name
+}
+</script>
+</html>

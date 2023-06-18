@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title>statement</title>
+</head>
+<body>
+<script>
+let a=10
+let b=20
+let c=a+b
+if (c>=40){
+document.write("addition of a and b is greater than  or equal to 40")
+}
+else if(c>=35){
+document.write("addition of a and b is greater than  or equal to 35")
+}
+else if(c=30){
+document.write("addition of a and b is equal to 30")
+}
+else{
+document.write("addition of a and b is greater than  or equal to 30")
+}
+</script>
+</body>
+</html>

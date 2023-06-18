@@ -1,0 +1,15 @@
+ <!doctype html>
+<html>
+<head>
+<title>hello world</title>
+</head>
+<body></body>
+<script>
+let a=tharun
+document.write(typeof(a)+"<br>")
+let b=12345
+documrnt.write(typeof(b)+"<br>")
+let car={CarName:"tharun",carcolor:"royalblack"}
+document.write(typeof(car)
+</script>
+</html>

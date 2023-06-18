@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>image</title>
+</head>
+<body>
+<p>
+he is my favourite actor in tollywood
+<a href="C:\Users\pujar\Downloads\wallpaperflare.com_wallpaper.jpg"width"10"hi>tap here</a>
+</p>
+</body>
+
+
+</html>

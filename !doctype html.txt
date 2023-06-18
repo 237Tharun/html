@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title>Tribute of A.P.J. Abdul kalam</title>
+</head>
+<style>
+body{
+background-color:grey;
+    padding-top: 50px;  
+    padding-right: 100px;  
+    padding-bottom: 150px;  
+    padding-left: 200px;  
+}  
+h1{
+
+</style>
+<body>
+<h1>A.P.J. Abdul kalam</h1>
+<img src="C:\Users\pujar\Downloads\apj abdul kalam.jpeg" height="400px" width="500px">
+</body>
+</html>

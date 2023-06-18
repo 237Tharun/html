@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>statement</title>
+</head>
+<script>
+let a=10
+let b=20
+let c=a+b
+if(c==30){
+document.write("addition of a and b is 30")
+}
+<body></body>
+</html>

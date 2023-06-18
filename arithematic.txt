@@ -1,0 +1,17 @@
+ <!doctype html>
+<html>
+<head>
+<title>hello world</title>
+</head>
+<body></body>
+<script>
+let a=10
+let b=20
+let c=a+b
+let d=a-b
+let e=a*b
+let g=a/b
+let h=a%b
+document.write(c+"<br>+d+"<br>"+e+"<br>"+g+"<br>"+h+"<br>")
+</script>
+</html>

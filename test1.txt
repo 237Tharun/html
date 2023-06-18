@@ -1,0 +1,11 @@
+ <!doctype html>
+<html>
+<head>
+<title>hello world</title>
+</head>
+<body></body>
+<script>
+for (i1; i<=10; i++)
+document.write(i+"<br>")
+</script>
+</html>

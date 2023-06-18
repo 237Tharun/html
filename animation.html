@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<title>transition</title>
+</head>
+<style>
+div{
+hieght:100px;
+width:100px;
+background-color:green;
+transition:linear;
+animation-name:slide;
+animation-delay:2ms;
+animation-duration:5s;
+animation-iteration-count:infinite;
+animatio-timing-function:ease-in;
+}
+@keyframes slide{
+50%{
+height:200px;
+width:200px;
+background-color:yellow;
+}
+100%{
+height:200px;
+width:200px;
+background-color:blue;
+}
+}
+</style>
+<body>
+<div></div>
+</body>
+</html>

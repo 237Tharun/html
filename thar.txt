@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title>tharun</title>
+</head>
+<body>
+<form>
+<table>
+<tr><td>username:-<input type="text" placeholder="enter your name" required></td></tr><br>
+<tr><td>email:-<input type="email" placeholder="enter your email" required></td></tr><br>
+<tr><td>password:-<input type="password" reqiured></td></tr><br>
+<input type="button" value="submit">
+</table>
+</form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!doctype>
+<html>
+<head>
+<title>
+external css
+</title>
+<link rel="stylesheet" href="C:\Users\pujar\OneDrive\Desktop\HTML\style.css">
+<head>
+<body>
+<h1>hii</h1>
+<p>i am tharun</p>
+</body>
+</html>

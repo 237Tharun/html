@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title>hello world</title>
+</head>
+<body>
+<script>
+let i=1
+while (i<=20){
+document.write(i+"<br>");
+i++;
+i=i+1;
+}
+</script>
+</body>
+</html>

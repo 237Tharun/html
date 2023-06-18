@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title>
+internal css
+</title>
+</head>
+<style>h1,p{
+color:blue;
+font-style:italic;
+}</style>
+<body>
+<h1>tharun</h1>
+<p>he is single</p>
+</body>
+</html>

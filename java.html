@@ -1,0 +1,18 @@
+<!doctype html>
+<html<
+<head>
+<title>document</title>
+</head>
+<body>
+</body>
+<script>
+let a="Tharun"//global scope
+function myfun(){
+let b="good morning"//local scope
+document.write(b+"<br>")
+document.write("inside the function:"+a+"<br>")
+}
+myfun()
+document.write("outside the function:"+a+"<br>")
+</script>
+</html>

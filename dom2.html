@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    form{
+        text-align: center;
+        margin-top: 15%;
+    }
+</style>
+<body>
+    <form>
+        <h1>Wellcome</h1>
+        <label>Name</label>
+        <input type="text" id="sname" placeholder="Enter your name"><br><br>
+        <label>Email id</label>
+        <input type="email" id="email" placeholder="Enter your Email Id"><br><br>
+        <label>Password</label>
+        <input type="password" id="Password" placeholder="Enter you password"><br><br>
+        <button onclick="myfun()">Submit</button>
+    </form>
+</body>
+<script>
+    function myfun(){
+      var name=document.getElementById("sname").value
+      var email=document.getElementById("email").value
+      var password=document.getElementById("Password").value
+      if(name=="")
+      {
+        alert("Name is empty")
+      }
+      else if(email=="")
+      {
+        alert("Email is empty")
+      }
+      else if(password="")
+      {
+        alert("Password is empty")
+      }
+      else
+      {
+        alert("Thank you you had submited successfully")
+      }
+    }
+</script>
+</html>

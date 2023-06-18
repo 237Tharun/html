@@ -1,0 +1,15 @@
+<head>
+    <title>tharun</title>
+</head>
+<body>
+    <form>
+        <label>name</label>
+        <input type="text" required placeholder="user name"required>
+        <br>
+        <label>email</label>
+        <input type="email" required placeholder="user email name"required>
+        <br>
+        <label>pass</label>
+        <input type="password" pin id="user pin"required>
+    </form>
+</body>

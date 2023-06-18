@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title>dom</title>
+</head>
+<script>
+function tharun(){
+var data=document.getElementById("arun").value
+document.getElementById("anki").innerHTML=data
+let Data=document.getElementById("Arun").value
+document.getElementById("love").innerHTML=Data
+}
+</script>
+<body>
+<form>
+<label>name</label>
+<input type="text" id="arun"><br><br>
+<label>age</label> 
+<input type="text" id="Arun">
+<input type="button" value="enter" onclick="tharun()"/> 
+</form>
+<h1 id="anki"><h1>
+<h1 id="love"><h1>
+</body>
+</html>
